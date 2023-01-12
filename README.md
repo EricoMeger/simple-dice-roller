@@ -6,5 +6,5 @@ prefix: '?'
 comandos: 
 ?rolaDado, aliases = roll, rolar
 
-![alt text](https://imgur.com/a/rwUdfyw)
+
 
